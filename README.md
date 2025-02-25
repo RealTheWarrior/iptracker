@@ -1,5 +1,4 @@
-🚀 WARRIOR IP TRACKER
-
+# 🚀 WARRIOR IP TRACKER
 🚀 A Powerful IP Tracking Tool for Windows | Linux | Termux
 💀 Author: @RealTheWarrior
 ⚠️ Warning: This tool is for Educational Purposes Only!
@@ -7,7 +6,7 @@
 
 ---
 
-📌 Features
+# 📌 Features
 
 ✅ IP Geolocation Lookup (Country, City, Region, ZIP, Latitude, Longitude)
 ✅ ISP & Organization Detection
@@ -19,71 +18,77 @@
 
 ---
 
-🛠️ Installation Process (Windows, Linux, Termux)
+# 🛠️ Installation Process (Windows, Linux, Termux)
 
-💀 Windows Installation
-
+## 💀 Windows Installation
+```
 git clone https://github.com/YourUsername/IP-Tracker.git
 cd IP-Tracker
 pip install -r requirements.txt
 python ip_tracker.py
+```
 
 
 ---
 
-💀 Linux Installation
+## 💀 Linux Installation
 
+```
 sudo apt update && sudo apt install python3 git -y
 git clone https://github.com/YourUsername/IP-Tracker.git
 cd IP-Tracker
 pip3 install -r requirements.txt
 python3 ip_tracker.py
+```
 
 
 ---
 
-💀 Termux Installation (Android)
-
+## 💀 Termux Installation (Android)
+```
 pkg update && pkg install python git -y
 git clone https://github.com/YourUsername/IP-Tracker.git
 cd IP-Tracker
 pip install -r requirements.txt
 python ip_tracker.py
+```
 
 
 ---
 
-📜 Required Dependencies
-
+## 📜 Required Dependencies
+```
 pip install requests bs4 rich
+```
 
-📌 Make sure you have Python installed!
-📌 Use python3 instead of python if required!
+ 📌 Make sure you have Python installed!
+ 📌 Use python3 instead of python if required!
 
 
 ---
 
-📝 Usage (How to Use?)
+# 📝 Usage (How to Use?)
 
-1. Run the tool:
-
+## 1. Run the tool:
+```
 python ip_tracker.py
+```
 
 
 2. Enter the IP Address and press Enter.
 
 
-3. Get complete details instantly!
+ 3. Get complete details instantly!
 
 
-4. Press CTRL + C to exit.
+ 4. Press CTRL + C to exit.
 
 
 
 
 ---
 
-⚠ Warning ⚠
+# ⚠ Warning ⚠
 
 🔴 This tool is only for Educational Purposes!
 🔴 Use it only on your own IP or with Permission.
@@ -98,12 +103,7 @@ python ip_tracker.py
 
 ---
 
-💀 Contact & Credits
+# 💀 Contact & Credits
 
 📌 Made by: @RealTheWarrior
 📌 GitHub: [Your GitHub Profile]
-
-
----
-
-Now, upload this README.md file to your GitHub Repository! 🚀🔥
