@@ -34,7 +34,7 @@ python iptracker.py
 sudo apt update && sudo apt install python3 git -y
 git clone https://github.com/RealTheWarrior/iptracker.git
 cd iptracker
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 python3 iptracker.py
 ```
 
