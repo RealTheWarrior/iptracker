@@ -27,8 +27,6 @@ pip install -r requirements.txt
 python iptracker.py
 ```
 
-
-
 ---
 
 ### 💀 Linux Installation
