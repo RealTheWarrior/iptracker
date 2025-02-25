@@ -93,4 +93,4 @@ python iptracker.py
 
 # 💀 Contact & Credits
 
-📌 GitHub: @RealTheWarrior
+📌 Telegram: @RealTheWarrior
