@@ -12,7 +12,7 @@ A **Powerful IP Tracking Tool** for **Windows | Linux | Termux**
 ✅ **ISP & Organization Detection**  
 ✅ **Hosting & Mobile Network Detection**  
 ✅ **Scam Score Detection (Safe, Suspicious, High Risk)**  
-✅ **Custom Hacker-Style UI with Fast Performance**  
+✅ **Smooth UI with Fast Performance**  
 ✅ **Works on Windows, Linux & Termux**  
 
 ---
